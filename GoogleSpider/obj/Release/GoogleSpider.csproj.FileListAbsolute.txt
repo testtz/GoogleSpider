@@ -1,0 +1,14 @@
+Z:\GoogleSpider\GoogleSpider\bin\Release\GoogleSpider.exe
+Z:\GoogleSpider\GoogleSpider\bin\Release\GoogleSpider.pdb
+Z:\GoogleSpider\GoogleSpider\bin\Release\EO.Base.dll
+Z:\GoogleSpider\GoogleSpider\bin\Release\EO.WebBrowser.dll
+Z:\GoogleSpider\GoogleSpider\bin\Release\EO.WebEngine.dll
+Z:\GoogleSpider\GoogleSpider\bin\Release\EO.Base.xml
+Z:\GoogleSpider\GoogleSpider\bin\Release\EO.WebBrowser.xml
+Z:\GoogleSpider\GoogleSpider\bin\Release\EO.WebEngine.xml
+Z:\GoogleSpider\GoogleSpider\obj\Release\GoogleColl.AddConfig.resources
+Z:\GoogleSpider\GoogleSpider\obj\Release\GoogleColl.MainForm.resources
+Z:\GoogleSpider\GoogleSpider\obj\Release\GoogleSpider.csproj.GenerateResource.Cache
+Z:\GoogleSpider\GoogleSpider\obj\Release\GoogleSpider.exe
+Z:\GoogleSpider\GoogleSpider\obj\Release\GoogleSpider.pdb
+Z:\GoogleSpider\GoogleSpider\obj\Release\GoogleSpider.Properties.Resources.resources

@@ -1,0 +1,15 @@
+\\Mac\下载\GoogleColl\GoogleColl\bin\Debug\GoogleColl.exe
+\\Mac\下载\GoogleColl\GoogleColl\bin\Debug\GoogleColl.pdb
+\\Mac\下载\GoogleColl\GoogleColl\bin\Debug\EO.Base.dll
+\\Mac\下载\GoogleColl\GoogleColl\bin\Debug\EO.WebBrowser.dll
+\\Mac\下载\GoogleColl\GoogleColl\bin\Debug\EO.WebEngine.dll
+\\Mac\下载\GoogleColl\GoogleColl\bin\Debug\EO.Base.xml
+\\Mac\下载\GoogleColl\GoogleColl\bin\Debug\EO.WebBrowser.xml
+\\Mac\下载\GoogleColl\GoogleColl\bin\Debug\EO.WebEngine.xml
+\\Mac\下载\GoogleColl\GoogleColl\obj\Debug\GoogleColl.csprojResolveAssemblyReference.cache
+\\Mac\下载\GoogleColl\GoogleColl\obj\Debug\GoogleColl.AddConfig.resources
+\\Mac\下载\GoogleColl\GoogleColl\obj\Debug\GoogleColl.MainForm.resources
+\\Mac\下载\GoogleColl\GoogleColl\obj\Debug\GoogleColl.Properties.Resources.resources
+\\Mac\下载\GoogleColl\GoogleColl\obj\Debug\GoogleColl.csproj.GenerateResource.Cache
+\\Mac\下载\GoogleColl\GoogleColl\obj\Debug\GoogleColl.exe
+\\Mac\下载\GoogleColl\GoogleColl\obj\Debug\GoogleColl.pdb
